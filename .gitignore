@@ -1,0 +1,3 @@
+nats.yml
+config/messaging/priv.key
+config/messaging/pub.key
